@@ -44,8 +44,8 @@ Miembros
 -----
 
 >>> Hemos seleccionado estas dos personas, un historiador y profesor de instituto de Logroño, y una ingeniera ambiental de valencia, ambos con su propio y diferente trasnfondo personal. Pensamos que los dos buscan entrar en un nuevo ambito como es la gastronomía y que debido a sus diferencias, buscaran distintas cosas dentro de este mismo objetivo.
->>> ![Persona1](P1/Persona#1.png)
->>> ![Persona2](P1/Persona#2.png)
+>>> ![Persona1](P1/3.Personas/Persona#1.png)
+>>> ![Persona2](P1/3.Personas/Persona#2.png)
 
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
