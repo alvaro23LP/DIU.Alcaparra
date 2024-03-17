@@ -1,8 +1,8 @@
 # DIU24
-Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: Experiencias gastronómicas ) 
 
-Grupo: DIU1_01AABB.  Curso: 2023/24 
-Updated: 11/2/2024
+Grupo: DIU2.Alcaparra.  Curso: 2023/24 
+Updated: 17/03/2024
 
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
@@ -15,8 +15,8 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Álvaro López Vergara     :octocat:     
+ * :bust_in_silhouette:  David Ortega Sillero     :octocat:
 
 ----- 
 
@@ -43,7 +43,10 @@ Miembros
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
+>>> Hemos seleccionado estas dos personas, un historiador y profesor de instituto de Logroño, y una ingeniera ambiental de valencia, ambos con su propio y diferente trasnfondo personal. Pensamos que los dos buscan entrar en un nuevo ambito como es la gastronomía y que debido a sus diferencias, buscaran distintas cosas dentro de este mismo objetivo.
+>>> ![Persona1](P1/Persona#1.png)
+>>> ![Persona2](P1/Persona#2.png)
+
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
