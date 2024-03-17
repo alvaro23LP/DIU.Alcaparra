@@ -33,12 +33,12 @@ Miembros
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
 
->>> Describe el plan de User Research (cómo se planteas)  
+>>> Describe el plan de User Research (cómo se planteas)  (POR RELLENAR)
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
+>>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (POR RELLENAR)
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
@@ -52,7 +52,10 @@ Miembros
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
+>>> Presentamos dos experiencias de usuario distintas según las caracteristicas de nuestras personas. Que aunque puedan parecer inusuales, creemos que son bastante fieles a la personalidad y espectativas ee cada uno.
+![JourneyMap1](P1/4.JourneyMaps/JourneyMap#1.png)
+![JourneyMap1](P1/4.JourneyMaps/JourneyMap#2.png)
+
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
@@ -61,6 +64,7 @@ Miembros
 >>> - Enlace al documento:  (sube a github el xls/pdf) 
 >>> - Valoración final (numérica): 
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>>   (POR RELLENAR)
 
 
 ## Paso 2. UX Design  
