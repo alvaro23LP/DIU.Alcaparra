@@ -44,8 +44,8 @@ Miembros
 -----
 
 >>> Hemos seleccionado estas dos personas, un historiador y profesor de instituto de Logroño, y una ingeniera ambiental de valencia, ambos con su propio y diferente trasnfondo personal. Pensamos que los dos buscan entrar en un nuevo ambito como es la gastronomía y que debido a sus diferencias, buscaran distintas cosas dentro de este mismo objetivo.
->>> ![Persona1](P1/3.Personas/Persona#1.png)
->>> ![Persona2](P1/3.Personas/Persona#2.png)
+>>> ![Persona1](P1/3.Personas/Persona1.png)
+>>> ![Persona2](P1/3.Personas/Persona2.png)
 
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
@@ -53,8 +53,8 @@ Miembros
 
 
 >>> Presentamos dos experiencias de usuario distintas según las caracteristicas de nuestras personas. Que aunque puedan parecer inusuales, creemos que son bastante fieles a la personalidad y espectativas ee cada uno.
-![JourneyMap1](P1/4.JourneyMaps/JourneyMap#1.png)
-![JourneyMap1](P1/4.JourneyMaps/JourneyMap#2.png)
+>>> ![JourneyMap1](P1/4.JourneyMaps/JourneyMap1.png)
+>>> ![JourneyMap1](P1/4.JourneyMaps/JourneyMap2.png)
 
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
