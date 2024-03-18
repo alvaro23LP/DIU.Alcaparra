@@ -38,7 +38,9 @@ Miembros
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (POR RELLENAR)
+>>> Hemos realizado el analisis de 3 paginas diferente, las dos que visitan nuestras personas y una tercera que pensamos que mejora en gran medida, varios de los aspectos, con respecto a las dos primeras. Estos puntos son los que creemos relevantes en una pagina de experiencias y aprendiaje gastronómico.
+>>> ![Analysis](P1/2.CompetitiveAnalysis/CompetitiveAnalysis.png)
+
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
