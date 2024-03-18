@@ -39,7 +39,7 @@ Miembros
 -----
 
 >>> Hemos realizado el analisis de 3 paginas diferente, las dos que visitan nuestras personas y una tercera que pensamos que mejora en gran medida, varios de los aspectos, con respecto a las dos primeras. Estos puntos son los que creemos relevantes en una pagina de experiencias y aprendiaje gastronómico.
->>> ![Analysis](P1/2.CompetitiveAnalysis/CompetitiveAnalysis.png)
+>>> ![Analysis](P1/2.CompetitiveAnalysis/CompetitorAnalysis.png)
 
 
 ![Método UX](img/Persona.png) 1.c Persona
