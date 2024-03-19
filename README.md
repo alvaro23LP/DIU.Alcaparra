@@ -33,7 +33,8 @@ Miembros
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
 
->>> Describe el plan de User Research (cómo se planteas)  (POR RELLENAR)
+>>> Hemos rellenado la plantilla de User Research para poder mejorar el desarrollo de nuestra página web. Este documento recopila información, análisis de preferencias de usuarios, así como los objetivos generales que pretendemos potenciar.
+>>> ![User Research](P1/1.UserResearch/UserResearch_Alcaparra.pdf).
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
