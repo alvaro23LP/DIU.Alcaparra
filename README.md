@@ -64,11 +64,9 @@ Miembros
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
->>>   (POR RELLENAR)
-
+>>> - Enlace al documento: [Usability Review PDF](P1/5.UsabilityReview/UsabilityReview.pdf).
+>>> - Valoración final (numérica): 66 - Moderate
+>>> - Comentario sobre la valoración: Dada nuestra propia experiencia, y el estudio de completo de la pagina, tanto la interfaz como del contenido, pensamos que la valoración esta bastante acorde con nuestro pensamiento general de la misma. Tiene diversos puntos a mejorar, y aunque mayoritariamente esteticos, tambien algunos de funcionalidad y uso; estos los abordamos en los documentos anteriores, como el tiempo de carga. Finalmente, como conclusión, decir que es una página web funcional pero con margen de mejora. 
 
 ## Paso 2. UX Design  
 
