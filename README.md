@@ -62,11 +62,14 @@ Miembros
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
+
 >>> - Enlace al documento: [Usability Review PDF](P1/5.UsabilityReview/UsabilityReview.pdf).
 >>> - Valoración final (numérica): 66 - Moderate
->>> - Comentario sobre la valoración: Dada nuestra propia experiencia, y el estudio de completo de la pagina, tanto la interfaz como del contenido, pensamos que la valoración esta bastante acorde con nuestro pensamiento general de la misma. Tiene diversos puntos a mejorar, y aunque mayoritariamente esteticos, tambien algunos de funcionalidad y uso; estos los abordamos en los documentos anteriores, como el tiempo de carga. Finalmente, como conclusión, decir que es una página web funcional pero con margen de mejora. 
+>>> - Comentario sobre la valoración: La página de Granada Cooking ha obtenido una puntuación de 66 en nuestro Usability Review. En general la web está correctamente seccionada con apartados concisos e informativos. Dispone de un menú superior que permite acceder a los apartados principales como son la sección de talleres. No obstante, se han hallado una serie de fallos críticos que empeoran la experiencia de usuario final como son:
+>>> -- Tiempo de carga de la sección de _talleres_ extremadamente lenta.
+>>> -- En la página principal solo se muestran talleres ya expirados, haciendo imposible su reserva.
+>>> -- Dificultad para guardar un curso en el carrito, puede mostrar un mensaje de error extraño si no se hace correctamente.
+>>>   En conclusión la página web es minimalista y cumple con su función aunque tiene diversos apartados a mejorar.
 
 ## Paso 2. UX Design  
 
