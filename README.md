@@ -39,7 +39,7 @@ Miembros
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
->>> Hemos realizado el analisis de 3 paginas diferente, las dos que visitan nuestras personas y una tercera que pensamos que mejora en gran medida, varios de los aspectos, con respecto a las dos primeras. Estos puntos son los que creemos relevantes en una pagina de experiencias y aprendiaje gastronómico.
+>>> Hemos realizado el analisis de 3 paginas diferente, las dos que visitan nuestras personas y una tercera que pensamos que mejora en gran medida, varios de los aspectos, con respecto a las dos primeras, tanto a nivel funcional, estético, entre otro. Estos puntos son los que creemos más relevantes para una pagina web y en concreto de experiencias y aprendiaje gastronómico.
 >>> ![Analysis](P1/2.CompetitiveAnalysis/CompetitorAnalysis.png)
 
 
