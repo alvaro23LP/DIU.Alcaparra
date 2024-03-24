@@ -39,7 +39,7 @@ Miembros
 >>> ![JourneyMap1](4.JourneyMaps/JourneyMap2.png)
 
 
-![Método UX]../(img/usabilityReview.png) 1.e Usability Review
+![Método UX](../img/usabilityReview.png) 1.e Usability Review
 ----
 
 >>> - Enlace al documento: [Usability Review PDF](5.UsabilityReview/UsabilityReview.pdf).
