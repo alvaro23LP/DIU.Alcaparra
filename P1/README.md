@@ -1,7 +1,7 @@
 ## DIU - Practica1, entregables
 
 Miembros
- * :bust_in_silhouette:   Álvaro López Vergara  
+ * :bust_in_silhouette:  Álvaro López Vergara  
  * :bust_in_silhouette:  David Ortega Sillero  
 
 # Proceso de Diseño 
@@ -18,14 +18,14 @@ Miembros
 ![Método UX](../img/Competitive.png) 1.b Competitive Analysis
 -----
 
->>> Hemos realizado el analisis de 3 paginas diferente, las dos que visitan nuestras personas y una tercera que pensamos que mejora en gran medida, varios de los aspectos, con respecto a las dos primeras, tanto a nivel funcional, estético, entre otro. Estos puntos son los que creemos más relevantes para una pagina web y en concreto de experiencias y aprendiaje gastronómico.
+>>> Hemos realizado el análisis de 3 páginas diferentes, las dos que visitan nuestras personas y una tercera que pensamos que mejora en gran medida, varios de los aspectos, con respecto a las dos primeras, tanto a nivel funcional, estético, entre otros. Estos puntos son los que creemos más relevantes para una página web y en concreto de experiencias y aprendizaje gastronómico.
 >>> ![Analysis](2.CompetitiveAnalysis/CompetitorAnalysis.png)
 
 
 ![Método UX](../img/Persona.png) 1.c Persona
 -----
 
->>> Hemos seleccionado estas dos personas, un historiador y profesor de instituto de Logroño, y una ingeniera ambiental de valencia, ambos con su propio y diferente trasnfondo personal. Pensamos que los dos buscan entrar en un nuevo ambito como es la gastronomía y que debido a sus diferencias, buscaran distintas cosas dentro de este mismo objetivo.
+>>> Hemos seleccionado estas dos personas, un historiador y profesor de instituto de Logroño, y una ingeniera ambiental de Valencia, ambos con su propio y diferente trasfondo personal. Pensamos que los dos buscan entrar en un nuevo ámbito como es la gastronomía y que debido a sus diferencias, buscarán diferentes cosas dentro de este mismo objetivo.
 >>> ![Persona1](3.Personas/Persona1.png)
 >>> ![Persona2](3.Personas/Persona2.png)
 
@@ -34,7 +34,7 @@ Miembros
 ----
 
 
->>> Presentamos dos experiencias de usuario distintas según las caracteristicas de nuestras personas. Que aunque puedan parecer inusuales, creemos que son bastante fieles a la personalidad y espectativas ee cada uno.
+>>> Presentamos dos experiencias de usuario distintas según las características de nuestras personas. Aunque puedan parecer inusuales, creemos que son bastante fieles a la personalidad y espectativas de cada uno.
 >>> ![JourneyMap1](4.JourneyMaps/JourneyMap1.png)
 >>> ![JourneyMap1](4.JourneyMaps/JourneyMap2.png)
 
