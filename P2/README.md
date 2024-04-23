@@ -4,6 +4,7 @@
 * Mapa de empatía
 
 ### PROPUESTA DE VALOR
+AÑADIR DESCRIPCION DE LA PROPUESTA
 * ScopeCanvas
 
 ### TASK ANALYSIS
