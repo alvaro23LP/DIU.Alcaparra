@@ -33,6 +33,9 @@
 
 Bocetos Lo-Fi PARA WEB de las distintas pantallas del interfaz (las más relevantes). Un primer esbozo en PAPEL.
 >>>
+>>> ![Bocetos](Bocetos1.png)
+>>> ![Bocetos](Bocetos2.png) 
+
 Wireframe preliminar en FIGMA.
 >>>
 Diseño RESPONSIVE (para ver su comportamiento en distintos dispositivos) usando plugin Breakpoint
