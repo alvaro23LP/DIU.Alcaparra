@@ -15,22 +15,23 @@
 >>> ![ScopeCanvas](2_ScopeCanvas.png)
 
 ### 3. TASK ANALYSIS
->>> Presentamos el Task Analysis en el que identificamos las tareas principales y su relevancia para los distintos usuarios que hemos identficado; no registrados, registrados y usuarios VIP. En primer lugar enumeramos las tareas en la tabla e indicando su relevancia (- nula, 1 Baja, 2 media, 3 alta). A continuación reflejamos las tres mas importantes en unos User Flow, que muestran de forma visual la acciones que hay que llevar a cabo para realizar una actividad/tarea, y muestra las relaciones y las dependencias entre las mismas.
+* Presentamos el Task Analysis en el que identificamos las tareas principales y su relevancia para los distintos usuarios que hemos identficado; no registrados, registrados y usuarios VIP. En primer lugar enumeramos las tareas en la tabla e indicando su relevancia (- nula, 1 Baja, 2 media, 3 alta). A continuación reflejamos las tres mas importantes en unos User Flow, que muestran de forma visual la acciones que hay que llevar a cabo para realizar una actividad/tarea, y muestra las relaciones y las dependencias entre las mismas.
 >>> ![UserFlow](3_TaskAnalysis.png)
 >>> ![UserFlow](3_UserFlow.png)
 
 
 ### 4. ARQUITECTURA DE INFORMACIÓN
->>> Proponemos una organización lógica de la navegación y elementos de diseño. En este paso, presentamos el sitemap junto con el etiquetado (labelling) del sitio.
+* Proponemos una organización lógica de la navegación y elementos de diseño. En este paso, presentamos el sitemap junto con el etiquetado (labelling) del sitio.
 >>> ![Método UX](../img/Sitemap.png) 2.c Sitemap
 >>> ![Sitemap](4_Sitemap.png)
 >>> ![Método UX](../img/labelling.png) 2.d Labelling 
->>> ![Labelling](4_Labelling.pdf)
+>>> ![Labelling](4_Labelling.png)
 
 
 
 ### 5. Prototipo Lo-FI Wireframe 
-
+bocetos Lo-Fi PARA WEB de las distintas pantallas del interfaz (las más
+relevantes)
 
 ### 6. Conclusiones  
 (incluye valoración de esta etapa)
