@@ -1,7 +1,6 @@
 ## DIU - Practica2, entregables
 
 ### 1. Ideación 
-* Mapa de empatía
 * Hemos realizado un mapa de empatía, en el que recabamos el comportamiento de los usuarios de la práctica 1 (y además nuestra propia experiencia) para así abordar el diseño.
 >>> ![EmpathyMap](1_EmpathyMap.png)
 
