@@ -2,7 +2,6 @@
 
 ### 1. Ideación 
 * Mapa de empatía
-* Vamos a sintetizar los hallazgos (insights) y propuesta de diseño usando un mapa de empatía.Recabamos el comportamiento de los usuarios de la práctica 1 (y de nuestra experiencia) para así abordar el diseño.
 * Hemos realizado un mapa de empatía, en el que recabamos el comportamiento de los usuarios de la práctica 1 (y además nuestra propia experiencia) para así abordar el diseño.
 >>> ![EmpathyMap](1_EmpathyMap.png)
 
@@ -11,7 +10,7 @@
 * (150-200 caracteres)
 >>> AÑADIR DESCRIPCION DE LA PROPUESTA
 
->>> ![Método UX](../img/ScopeCanvas.png) 2.b ScopeCanvas
+ ![Método UX](../img/ScopeCanvas.png) 2.b ScopeCanvas
 >>> ![ScopeCanvas](2_ScopeCanvas.png)
 
 ### 3. TASK ANALYSIS
@@ -22,9 +21,9 @@
 
 ### 4. ARQUITECTURA DE INFORMACIÓN
 * Proponemos una organización lógica de la navegación y elementos de diseño. En este paso, presentamos el sitemap junto con el etiquetado (labelling) del sitio.
->>> ![Método UX](../img/Sitemap.png) 2.c Sitemap
+ ![Método UX](../img/Sitemap.png) 2.c Sitemap
 >>> ![Sitemap](4_Sitemap.png)
->>> ![Método UX](../img/labelling.png) 2.d Labelling 
+ ![Método UX](../img/labelling.png) 2.d Labelling 
 >>> ![Labelling](4_Labelling.png)
 
 
