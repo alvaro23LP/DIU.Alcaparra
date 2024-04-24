@@ -29,8 +29,13 @@
 
 
 ### 5. Prototipo Lo-FI Wireframe 
-bocetos Lo-Fi PARA WEB de las distintas pantallas del interfaz (las más
-relevantes)
+![Método UX](../img/Wireframes.png) 2.d Wireframes
+
+Bocetos Lo-Fi PARA WEB de las distintas pantallas del interfaz (las más relevantes). Un primer esbozo en PAPEL.
+>>>
+Wireframe preliminar en FIGMA.
+>>>
+Diseño RESPONSIVE (para ver su comportamiento en distintos dispositivos) usando plugin Breakpoint
 
 ### 6. Conclusiones  
 (incluye valoración de esta etapa)
@@ -51,7 +56,6 @@ Término | Significado
   Login¿?  | acceder a plataforma
 
 
-![Método UX](../img/Wireframes.png) 2.d Wireframes
 -----
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
