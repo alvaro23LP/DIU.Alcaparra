@@ -10,20 +10,20 @@
 ### 2. PROPUESTA DE VALOR
 *  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para experiencias gastronomicas?
 * (150-200 caracteres)
-AÑADIR DESCRIPCION DE LA PROPUESTA
-![Método UX](../img/ScopeCanvas.png) 2.b ScopeCanvas
+>>> AÑADIR DESCRIPCION DE LA PROPUESTA
+>>> ![Método UX](../img/ScopeCanvas.png) 2.b ScopeCanvas
 >>> ![ScopeCanvas](2_ScopeCanvas.png)
 
 ### TASK ANALYSIS
-![Método UX](../img/Sitemap.png) 2.b User Flow (task) analysis 
+>>> ![Método UX](../img/Sitemap.png) 2.b User Flow (task) analysis 
 >>> ![UserFlow](3_UserFlow.png)
 
 
 ### ARQUITECTURA DE INFORMACIÓN
-![Método UX](../img/Sitemap.png) 2.c Sitemap
+>>> ![Método UX](../img/Sitemap.png) 2.c Sitemap
 >>> ![Sitemap](4_Sitemap.png)
-![Método UX](../img/labelling.png) 2.d Labelling 
->>> ![Labelling](4_Labelling.png)
+>>> ![Método UX](../img/labelling.png) 2.d Labelling 
+>>> ![Labelling](4_Labelling.pdf)
 
 
 
