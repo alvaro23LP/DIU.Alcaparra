@@ -5,9 +5,8 @@
 >>> ![EmpathyMap](1_EmpathyMap.png)
 
 ### 2. PROPUESTA DE VALOR
-"Descubre la esencia auténtica de la gastronomía regional española con nuestra aplicación. Explora desde los clásicos hasta los tesoros culinarios autóctonos de nicho como calçots y paparajotes, ofreciendo una experiencia única que revela la diversidad de la cocina tradicional española, desconocida para muchos."
->>> AÑADIR DESCRIPCION DE LA PROPUESTA
-
+"Descubre la esencia auténtica de la gastronomía regional española además de los tesoros culinarios autóctonos de las ditintas zonas regionales de todo el mundo con nuestra plataforma de cursos online. Explora desde los clásicos hasta los platos de nicho, ofreciendo una experiencia única que revela la diversidad de la cocina tradicional española y de la gastronomías locales de distintos paises, desconocidas para muchos."
+Nuestra plataforma se centra enla gastronomia española y en la cocina local de dsitintos lugares del mundo, es decir, no los platos típicos sino distintas experiencias poco habituales, dando valor añadido a nuetsra propuesta en comparación a la competencia.
  ![Método UX](../img/ScopeCanvas.png) 2.b ScopeCanvas
 >>> ![ScopeCanvas](2_ScopeCanvas.png)
 
@@ -37,27 +36,10 @@ Bocetos Lo-Fi PARA WEB de las distintas pantallas del interfaz (las más relevan
 Wireframe preliminar en FIGMA.
 >>>
 Diseño RESPONSIVE (para ver su comportamiento en distintos dispositivos) usando plugin Breakpoint
+>>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+>>>
 
 ### 6. Conclusiones  
 (incluye valoración de esta etapa)
 
------------------------- SKELETON ----------------------
-
-
-
->>> Definir "User Map" y "Task Flow" ...
-
-
-
-
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
-
-
------
-
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
