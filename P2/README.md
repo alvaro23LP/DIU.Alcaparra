@@ -27,6 +27,7 @@ AÑADIR DESCRIPCION DE LA PROPUESTA
 
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+>>> ![EmpathyMap](1_EmpathyMap.png)
 
 
  Interesante | Críticas     
@@ -44,13 +45,14 @@ AÑADIR DESCRIPCION DE LA PROPUESTA
 ![Método UX](../img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 >>> Propuesta de valor
->>> >>> ![PORPUETA](2_ScopeCanvas.png)
+>>> ![ScopeCanvas](2_ScopeCanvas.png)
 
 
 ![Método UX](../img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+>>> Definir "User Map" y "Task Flow" ...
+>>> ![Sitemap](4_Sitemap.png)
 
 
 ![Método UX](../img/labelling.png) 2.c IA: Sitemap + Labelling 
