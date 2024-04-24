@@ -5,9 +5,7 @@
 >>> ![EmpathyMap](1_EmpathyMap.png)
 
 ### 2. PROPUESTA DE VALOR
-*  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para experiencias gastronomicas?
-* (150-200 caracteres)
-* Puntos basicos a comentar: cocina española, de nicho, platos locales como calçots, paparajotes, etc ademas de cocina tradicional y palto básicos de gastronomia. Con esto busamos diferenciarnos, y mostarar a la gente esta cocina desconocida en otros lugares.
+"Descubre la esencia auténtica de la gastronomía regional española con nuestra aplicación. Explora desde los clásicos hasta los tesoros culinarios autóctonos de nicho como calçots y paparajotes, ofreciendo una experiencia única que revela la diversidad de la cocina tradicional española, desconocida para muchos."
 >>> AÑADIR DESCRIPCION DE LA PROPUESTA
 
  ![Método UX](../img/ScopeCanvas.png) 2.b ScopeCanvas
