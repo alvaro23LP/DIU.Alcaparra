@@ -41,17 +41,19 @@ AÑADIR DESCRIPCION DE LA PROPUESTA
 
 
 
-![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
+![Método UX](../img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+>>> Propuesta de valor
+>>> >>> ![PORPUETA](2_ScopeCanvas.png)
 
-![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
+
+![Método UX](../img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
 
 >>> Definir "User Map" y "Task Flow" ... 
 
 
-![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
+![Método UX](../img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
 
@@ -62,7 +64,7 @@ Término | Significado
   Login¿?  | acceder a plataforma
 
 
-![Método UX](img/Wireframes.png) 2.d Wireframes
+![Método UX](../img/Wireframes.png) 2.d Wireframes
 -----
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
