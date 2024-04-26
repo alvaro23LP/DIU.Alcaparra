@@ -37,23 +37,23 @@ Los diseños se han realizado en tres partes. La primera ha sido una primera ide
 
 #### 5.1. Esbozos a papel
 
-![Bocetos](5_1_Bocetos1.png)
-![Bocetos](5_1_Bocetos2.png) 
+![Bocetos_papel](5_1_Bocetos1.png)
+![Bocetos_papel](5_1_Bocetos2.png) 
 
 #### 5.2. Wireframes preliminares en Figma
 
-![Bocetos](5_2_Mainpage.png)
-![Bocetos](5_2_Talleres.png)
-![Bocetos](5_2_Calendario.png)
-![Bocetos](5_2_Descripcion.png)
+![Bocetos_estaticos](5_2_Mainpage.png)
+![Bocetos_estaticos](5_2_Talleres.png)
+![Bocetos_estaticos](5_2_Calendario.png)
+![Bocetos_estaticos](5_2_Descripcion.png)
 
 
 #### 5.3. Diseños Responsive en Figma (usando Breakpoints)
 
-![Bocetos](5_3_Responsive_Mainpage.png)
-![Bocetos](5_3_Responsive_Talleres.png)
+![Bocetos_responsive](5_3_Responsive_Mainpage.png)
+![Bocetos_responsive](5_3_Responsive_Talleres.png)
 
-*Ver vídeo adjunto que muestra el comportamiento responsive de los layouts*
+*Ver vídeo adjunto que muestra el comportamiento responsive de los layouts:* [Video layouts responsive](5_3_VideoResponsive.webm)
 
 ### 6. Conclusiones  
 En esta práctica hemos analizado las desventajas que nuestras personas y nosotros mismos habíamos encontrado en las páginas web analizadas en la práctica anterior. Esto nos ha permitido obtener diversas nociones sobre los diseños que serían apropiados para nuestra página. Además hemos realizado nuestra propuesta de valor que nos permitirá aportar mayor valor a nuestra comunidad de usuarios que se verá incrementada efectivamente. Finalizamos la práctica obteniendo nuestros diseños adaptativos a distintos formatos de pantalla, hecho que es de gran utilidad teniendo en cuenta que en la actualidad gran parte de la comunidad accede a las plataformas web desde el móvil.
