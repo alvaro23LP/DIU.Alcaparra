@@ -12,8 +12,7 @@ Descripción:
 >>> Describa la idea de su producto en la práctica 2 
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
-
+![LOGO](P3/LogoVertical.png)
 Miembros
  * :bust_in_silhouette:   Álvaro López Vergara     :octocat:     
  * :bust_in_silhouette:  David Ortega Sillero     :octocat:
