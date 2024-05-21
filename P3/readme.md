@@ -10,6 +10,7 @@ Nuestro Landing Page ya con el estilo de diseño visual seleccionado. Ya que el 
 - Señalar claramente que es una aplicación y como obtenerla/descargarla.
 - Ciertos motivos para usarla, "beneficios".
 - Que quede claro el objetivo de nuestra app el tema, y para que es.
+
 Con los puntos anteriores creemos que tenemos un landing page atrativo y claro con un mensaje directo.
 ![Landing Page](Landing_Page.png)
 
