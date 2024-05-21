@@ -14,12 +14,13 @@ Nuestro Landing Page ya con el estilo de diseño visual seleccionado. Ya que el 
 Con los puntos anteriores creemos que tenemos un landing page atrativo y claro con un mensaje directo.
 ![Landing Page](Landing_Page.png)
 
-
 ## Mockup: LAYOUT HI-FI
+Finalmente, con todo lo anterior, definimos nuestro prototipo final, en el cual aplicamos todo lo visto, con nuestro propio estilo y diseños definidos anteriormente.
+
+Enlace a un video mostrando el prototipo en Figma, navegando por las distintas paginas y mostrando los diseños creados:
+
+Enlace a el prototipo en Figma:
 
 
-## Documentación: Publicación del Case Study
-
-
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+## Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
  
