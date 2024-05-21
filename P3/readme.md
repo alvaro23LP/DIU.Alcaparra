@@ -5,8 +5,13 @@ Presentamos nuestro moodboard, en el que detallamos la guía de estilos visual d
 ![Moodboard](MoodBoard_Alcaparra.png)
 
 ## Landing Page
-Nuestro Landing Page ya con el estilo de diseño visual seleccionado.
-![Landing Page](LandingPage.png)
+Nuestro Landing Page ya con el estilo de diseño visual seleccionado. Ya que el objetivo principal de una landing page es convertir a los espectadores del mismo en clientes potenciales o reales hemos definido su diseño en base a los siguientes puntos:
+- Nombre y logo presentes, presentados al inicio y claramente distinguibles.
+- Señalar claramente que es una aplicación y como obtenerla/descargarla.
+- Ciertos motivos para usarla, "beneficios".
+- Que quede claro el objetivo de nuestra app el tema, y para que es.
+Con los puntos anteriores creemos que tenemos un landing page atrativo y claro con un mensaje directo.
+![Landing Page](Landing_Page.png)
 
 
 ## Mockup: LAYOUT HI-FI
