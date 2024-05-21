@@ -147,7 +147,7 @@ Nuestro Landing Page emplea el estilo de diseño visual seleccionado. Ya que el 
 - Que quede claro el objetivo de nuestra app el tema, y para que es.
 
 Con los puntos anteriores creemos que tenemos un landing page atrativo y claro con un mensaje directo.
-![Landing Page](Landing_Page.png)
+![Landing Page](P3/Landing_Page.png)
 
 ## Guidelines
 La información sobre los patrones de diseño se ha extraído de [Material3](https://m3.material.io/components). En el pdf que presentamos a continuación explicamos los patrones usados y aduntamos imagenes de los componentes que hemos diseñado para llevar a cabo estos. Toda la información se encuenta aqui: [Guidelines](P3/PatronesDiseñoGuidelines.pdf)
