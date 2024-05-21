@@ -23,8 +23,8 @@ Finalmente, con todo lo anterior, definimos nuestro prototipo final, en el cual 
 
 Enlace a un video mostrando el prototipo en Figma, navegando por las distintas paginas y mostrando los diseños creados: [Video_HIFI](Video_Layout_HIFI.mp4)
 
-Enlace a el prototipo en Figma: https://www.figma.com/design/65QxXD3yth2ZTdxlKzZeAq/LAYOUT-HI-FI-SAZON-Y-TRADICION?node-id=54795%3A26436&t=3vvPNdoDBFbmm0Pm-1
-
+Enlace a el prototipo en Figma: [https://www.figma.com/design/65QxXD3yth2ZTdxlKzZeAq/LAYOUT-HI-FI-SAZON-Y-TRADICION?node-id=54795%3A26436&t=3vvPNdoDBFbmm0Pm-1
+](https://www.figma.com/design/96KRfwwCpYM1H7CoXUal2D/DIU2.Alcaparra---Saz%C3%B3n-Y-Tradici%C3%B3n?node-id=54795%3A26436&t=U6ndjTxXUq5liRxb-1)
 ![LAYOUT HI-FI](LAYOUT_HI-FI.png)
 
 ## Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
