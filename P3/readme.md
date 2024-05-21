@@ -21,7 +21,7 @@ La información sobre los patrones de diseño se ha extraído de [Material3](htt
 ## Mockup: LAYOUT HI-FI 
 Finalmente, con todo lo anterior, definimos nuestro prototipo final, en el cual aplicamos todo lo visto, con nuestro propio estilo y diseños definidos anteriormente.
 
-Enlace a un video mostrando el prototipo en Figma, navegando por las distintas paginas y mostrando los diseños creados:
+Enlace a un video mostrando el prototipo en Figma, navegando por las distintas paginas y mostrando los diseños creados: ![Video_HIFI](Video_Layout_HIFI.mp4)
 
 Enlace a el prototipo en Figma: https://www.figma.com/design/65QxXD3yth2ZTdxlKzZeAq/LAYOUT-HI-FI-SAZON-Y-TRADICION?node-id=54795%3A26436&t=3vvPNdoDBFbmm0Pm-1
 
