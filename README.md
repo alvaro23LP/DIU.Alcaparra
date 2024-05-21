@@ -12,7 +12,10 @@ Descripción:
 >>> Describa la idea de su producto en la práctica 2 
 
 Logotipo: 
+
 ![LOGO](P3/LogoVertical.png)
+
+
 Miembros
  * :bust_in_silhouette:   Álvaro López Vergara     :octocat:     
  * :bust_in_silhouette:  David Ortega Sillero     :octocat:
