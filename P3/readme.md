@@ -1,4 +1,4 @@
-# DIU - Practica 3, entregables
+# DIU - Practica 3
 
 ## Moodboard (diseño visual + logotipo)   
 Presentamos nuestro moodboard, en el que detallamos la guía de estilos visual de nuestra app. Dentro de la imagen se encuentran los detalles de porque la elección de cada componente, tanto para logo, tipografia, paleta de colores, etc.
