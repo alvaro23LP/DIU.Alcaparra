@@ -135,32 +135,29 @@ En esta práctica hemos analizado las desventajas que nuestras personas y nosotr
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
+## Moodboard (diseño visual + logotipo)   
+Presentamos nuestro moodboard, en el que detallamos la guía de estilos visual de nuestra app. Dentro de la imagen se encuentran los detalles de porque la elección de cada componente, tanto para logo, tipografia, paleta de colores, etc.
+![Moodboard](P3/MoodBoard_Alcaparra.png)
 
-![Método UX](img/moodboard.png) 3.a Moodboard
------
+## Landing Page
+Nuestro Landing Page ya con el estilo de diseño visual seleccionado. Ya que el objetivo principal de una landing page es convertir a los espectadores del mismo en clientes potenciales o reales hemos definido su diseño en base a los siguientes puntos:
+- Nombre y logo presentes, presentados al inicio y claramente distinguibles.
+- Señalar claramente que es una aplicación y como obtenerla/descargarla.
+- Ciertos motivos para usarla, "beneficios".
+- Que quede claro el objetivo de nuestra app el tema, y para que es.
 
+Con los puntos anteriores creemos que tenemos un landing page atrativo y claro con un mensaje directo.
+![Landing Page](P3/Landing_Page.png)
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+## Mockup: LAYOUT HI-FI
+Finalmente, con todo lo anterior, definimos nuestro prototipo final, en el cual aplicamos todo lo visto, con nuestro propio estilo y diseños definidos anteriormente.
 
+Enlace a un video mostrando el prototipo en Figma, navegando por las distintas paginas y mostrando los diseños creados:
 
-![Método UX](img/landing-page.png)  3.b Landing Page
-----
+Enlace a el prototipo en Figma: https://www.figma.com/design/65QxXD3yth2ZTdxlKzZeAq/LAYOUT-HI-FI-SAZON-Y-TRADICION?node-id=54795%3A26436&t=3vvPNdoDBFbmm0Pm-1
 
+![LAYOUT HI-FI](P3/LAYOUT_HI-FI.png)
 
->>> Plantear Landing Page 
-
-![Método UX](img/guidelines.png) 3.c Guidelines
-----
-
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
-
-![Método UX](img/mockup.png)  3.d Mockup
-----
-
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
