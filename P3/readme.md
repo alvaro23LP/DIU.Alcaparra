@@ -21,6 +21,9 @@ Enlace a un video mostrando el prototipo en Figma, navegando por las distintas p
 
 Enlace a el prototipo en Figma: https://www.figma.com/design/65QxXD3yth2ZTdxlKzZeAq/LAYOUT-HI-FI-SAZON-Y-TRADICION?node-id=54795%3A26436&t=3vvPNdoDBFbmm0Pm-1
 
+![LAYOUT HI-FI](LAYOUT_HI-FI.png)
+
+
 
 ## Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
  
