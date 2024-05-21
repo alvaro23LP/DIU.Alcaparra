@@ -1,12 +1,10 @@
 # DIU - Practica 3
 
-![Método UX](../img/guidelines.png) 
-## Moodboard (diseño visual + logotipo)   
+## Moodboard (diseño visual + logotipo)  ![Método UX](../img/guidelines.png)
 Presentamos nuestro moodboard, en el que detallamos la guía de estilos visual de nuestra app. Dentro de la imagen se encuentran los detalles de porque la elección de cada componente, tanto para logo, tipografia, paleta de colores, etc.
 ![Moodboard](MoodBoard_Alcaparra.png)
 
-![Método UX](../img/landing-page.png)  
-## Landing Page
+## Landing Page ![Método UX](../img/landing-page.png)  
 Nuestro Landing Page ya con el estilo de diseño visual seleccionado. Ya que el objetivo principal de una landing page es convertir a los espectadores del mismo en clientes potenciales o reales hemos definido su diseño en base a los siguientes puntos:
 - Nombre y logo presentes, presentados al inicio y claramente distinguibles.
 - Señalar claramente que es una aplicación y como obtenerla/descargarla.
@@ -16,8 +14,7 @@ Nuestro Landing Page ya con el estilo de diseño visual seleccionado. Ya que el 
 Con los puntos anteriores creemos que tenemos un landing page atrativo y claro con un mensaje directo.
 ![Landing Page](Landing_Page.png)
 
-![Método UX](../img/mockup.png) 
-## Mockup: LAYOUT HI-FI
+## Mockup: LAYOUT HI-FI ![Método UX](../img/mockup.png) 
 Finalmente, con todo lo anterior, definimos nuestro prototipo final, en el cual aplicamos todo lo visto, con nuestro propio estilo y diseños definidos anteriormente.
 
 Enlace a un video mostrando el prototipo en Figma, navegando por las distintas paginas y mostrando los diseños creados:
