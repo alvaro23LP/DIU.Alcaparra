@@ -27,7 +27,5 @@ Enlace a el prototipo en Figma: https://www.figma.com/design/65QxXD3yth2ZTdxlKzZ
 
 ![LAYOUT HI-FI](LAYOUT_HI-FI.png)
 
-
-
 ## Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
  
