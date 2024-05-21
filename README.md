@@ -4,13 +4,11 @@ Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: Experiencias gastronómi
 Grupo: DIU2.Alcaparra.  Curso: 2023/24 
 Updated: 17/03/2024
 
-Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Proyecto: Web Experiencias Gastronómicas
 
-Descripción: 
+Descripción:
 
->>> Describa la idea de su producto en la práctica 2 
-
+Nuestro proyecto consiste en una web/aplicación sobre Experiencias gastronómicas, en concreto nuestra APP Sazón y Tradición es un proyecto destinado al servicio de talleres sobre cocina española y local, con el objetivo de ofrecer una experiencia completa a nuestros visitantes. Nuestra propuesta consiste en una web o app que permite a los usuarios registrarse y llevar un control de sus talleres realizados, sus reservas y otra información, permitimos una subscripción VIP con ciertos beneficios, y otras distintas funcionalidades. Para ello proponemos un diseño fácil de navegar y lo mas intuitivo posible, con una estructura clara y organizada dividida en secciones, para facilitar la lectura y comprensión de la información.
 Logotipo: 
 
 ![LOGO](P3/LogoVertical.png)
