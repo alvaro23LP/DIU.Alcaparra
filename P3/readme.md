@@ -28,4 +28,10 @@ Enlace a el prototipo en Figma: https://www.figma.com/design/65QxXD3yth2ZTdxlKzZ
 ![LAYOUT HI-FI](LAYOUT_HI-FI.png)
 
 ## Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
- 
+En el proceso de diseño, hemos creado un prototipo de app realista utilizando Figma. Este mokup HI-FI ha sido clave para definir y perfeccionar el diseño de la aplicación, así como las transiciones entre las distintas secciones y pantallas.
+
+Al usar los componentes de diseño y las guías de Material M3 de Google, hemos reutilizado muchos componentes, lo que nos ha facilitado el diseño y ha garantizado que la aplicación tenga un aspecto moderno y cohesivo. La implementación de estas directrices ha asegurado una experiencia de usuario intuitiva y estética, alineada con los estándares actuales de diseño de aplicaciones móviles Android.
+
+Por otro lado, también hemos tenido ciertos problemas con Figma dado que el diseño del Flow y creación de todos los componentes de la app han llevado mucho tiempo y múltiples revisiones. No obstante, la versión final ha quedado finalmente bien conseguida.
+
+En resumen, aunque hemos tenido dificultades, el uso de Figma y las guías de Material M3 nos ha permitido crear una aplicación con un diseño atractivo y moderno que podría tener un gran potencial de comercialización.
