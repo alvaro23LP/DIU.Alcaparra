@@ -15,7 +15,7 @@ Con los puntos anteriores creemos que tenemos un landing page atrativo y claro c
 ![Landing Page](Landing_Page.png)
 
 ## Guidelines
-![Guidelines](PatronesDiseñoGuidelines.pdf)
+[Guidelines](PatronesDiseñoGuidelines.pdf)
 
 
 ## Mockup: LAYOUT HI-FI 
