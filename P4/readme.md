@@ -37,13 +37,31 @@ Para cada uno de los personajes ficticios que hemos creado, hemos completado el 
 
 Las conclusiones que podemos sacar a partir de este cuestionario para cada caso son:
 
-* Cuestionario Caso A (Grupo Alcaparra)
-La media 
+* **Cuestionario Caso A (Grupo Alcaparra)**
 
-* Cuestionario Caso B (Grupo Teclado y Ratón)
+La media de puntuación de los dos usuarios (#01 y #02) es de 78,75. Esto indica una buena usabilidad, situándose por encima del promedio. Esto sugiere que la mayoría de los usuarios encuentran la aplicación fácil de usar y tienen una experiencia positiva. La puntuación está cerca del rango de excelencia, aunque aún hay margen para mejoras. Los usuarios probablemente recomienden la aplicación, pero sería beneficioso abordar pequeñas áreas de frustración para perfeccionar la experiencia. 
+
+* **Cuestionario Caso B (Grupo Teclado y Ratón)**
+
+Para el caso B los resultados han sido 62.5 y 72.5, lo cual es una calificación mediocre, de grado C, indicando que la aplicación es simplemente aceptable. La puntuación se encuentra en el rango medio, sugiriendo que la mayoría de los usuarios pueden utilizarla sin muchos problemas, aunque existen áreas que requieren mejoras. Algunas tareas son tediosas o imposibles de realizar debido a la falta de implementación, como un área de descripción detallada de los cursos de fotografía disponibles.
+
+Con esta puntuación, los usuarios probablemente continuarán usando la aplicación, pero tienen ciertas quejas que los impiden estar completamente satisfechos. Es poco probable que recomienden la aplicación a otros debido a sus defectos. Se recomienda atender las sugerencias de los usuarios y realizar encuestas sobre la funcionalidad de la aplicación para seguir mejorándola.
 
 
 
-### 6. Conclusiones  
+### 6. Informe de usabilidad del Caso B
+En este informe detallamos el análisis completo de la usabilidad de la aplicación B, *Foto Élite*. El archivo se puede consultar aquí: [Usability Report](5_Usability_Report_B.pdf)
+
+Resumidamente, la aplicación presenta una serie de problemas que perjudican la experiencia de usuario como son los siguientes:
+
+- **Formulario de reserva de un curso:** Los campos son algo confusos y pueden ser irrelevantes a la hora de realizar una reserva, por ejemplo, la dirección; podrían omitirse o autocompletarse de forma transparente al usuario, adquiriendo esta información del perfil del usuario y no cada vez que se realiza una reserva.
+
+- **Accesibilidad del calendario:** No existe un acceso a un apartado de calendario en el que se visualicen de forma rápida y fácil los días en los que se realizarán los cursos. Para conocer los días en que se imparte cada curso hay que iniciar el proceso de reserva de cada curso, lo que es bastante tedioso. Como solución, podría ponerse un apartado en la barra de navegación o un subapartado dentro de la sección de cursos.
+
+- **Información de un curso muy nula:** No existe un apartado en el que se detalle la información relativa a un curso en concreto. Esto es vital para los usuarios, pues muchos no realizarán reservas si no saben de qué trata el curso, qué actividades en concreto van a realizar, quién lo imparte, hora, lugar, precio, etc. Proponemos que antes del proceso de reserva, se muestra una pantalla de descripción del curso, con toda la información necesaria y de interés.
+
+
+
+### 7. Conclusiones  
 En esta práctica hemos analizado las desventajas que nuestras personas y nosotros mismos habíamos encontrado en las páginas web analizadas en la práctica anterior. Esto nos ha permitido obtener diversas nociones sobre los diseños que serían apropiados para nuestra página. Además hemos realizado nuestra propuesta de valor que nos permitirá aportar mayor valor a nuestra comunidad de usuarios que se verá incrementada efectivamente. Finalizamos la práctica obteniendo nuestros diseños adaptativos a distintos formatos de pantalla, hecho que es de gran utilidad teniendo en cuenta que en la actualidad gran parte de la comunidad accede a las plataformas web desde el móvil.
 
