@@ -241,8 +241,6 @@ Resumidamente, la aplicación presenta una serie de problemas que perjudican la 
 ### Valoración personal 
 A esar de los errores presentados anteriormente, pensamos que Foto Élite, es una gran aplicación que cumple con practicamente todas las cosas que se esperan de una aplicación de cursos de fotografía, que tiene mucho potencial y margen de mejora. Creemos firmemente que, solventando los problemas vistos, Foto Élite puede ser una aplicación destacable en su sector. Destacar tambien su diseño claro, sencillo y minimalista;  y el atractivo logo, muy acorde con la temática.
 
-5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
-En conclusión, en la prueba del A/B testing, nuestro Caso A (*Sazón y Tradición*), con una puntuación SUS de 78.75, demuestra buena usabilidad, mientras que el Caso B (*Foto Élite*), con 67.5, indica una experiencia aceptable pero mejorable. Los problemas principales del caso B incluyen un formulario de reserva confuso, dificultad para acceder al calendario y falta de información detallada sobre los cursos. Recomendamos simplificar el formulario, añadir un acceso directo al calendario y proporcionar descripciones completas de los cursos antes de la reserva. Estas mejoras, basadas en el feedback de usuarios ficticios y pruebas de Eye Tracking, facilitarán la navegación y mejorarán la satisfacción del usuario. Implementar pruebas de usabilidad continuas y encuestas ayudará a mantener y mejorar la calidad de la aplicación. 
 
 
 ## Conclusión final / Valoración de las prácticas
