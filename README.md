@@ -239,7 +239,7 @@ Resumidamente, la aplicación presenta una serie de problemas que perjudican la 
 - **Información de un curso nula:** No existe un apartado en el que se detalle la información relativa a un curso en concreto. Esto es vital para los usuarios, pues muchos no realizarán reservas si no saben de qué trata el curso, qué actividades en concreto van a realizar, quién lo imparte, hora, lugar, precio, etc. Proponemos que antes del proceso de reserva, se muestra una pantalla de descripción del curso, con toda la información necesaria y de interés.
 
 ### Valoración personal 
-A esar de los errores presentados anteriormente, pensamos que Foto Élite, es una gran aplicación que cumple con practicamente todas las cosas que se esperan de una aplicación de cursos de fotografía, que tiene mucho potencial y margen de mejora. Creemos firmemente que, solventando los problemas vistos, Foto Élite puede ser una aplicación destacable en su sector. Destacar tambien su diseño claro, sencillo y minimalista;  y el atractivo logo, muy acorde con la temática.
+A pesar de los errores presentados anteriormente, pensamos que Foto Élite, es una gran aplicación que cumple con practicamente todas las cosas que se esperan de una aplicación de cursos de fotografía, que tiene mucho potencial y margen de mejora. Creemos firmemente que, solventando los problemas vistos, Foto Élite puede ser una aplicación destacable en su sector. Destacar tambien su diseño claro, sencillo y minimalista;  y el atractivo logo, muy acorde con la temática.
 
 
 
