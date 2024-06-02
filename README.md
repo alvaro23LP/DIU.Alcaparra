@@ -209,7 +209,7 @@ Las 2 primeras personas han evaluado el caso A, mientras las otras dos el caso B
 ----
 Para cada uno de los personajes ficticios que hemos creado, hemos completado el cuestionario SUS (*System UsabilitY Scale*). Este test lo hemos realizado con la ayuda de conocidos que han desempeñado el papel de los usuarios. Cada uno de ellos tenía una experiencia similar a la descrita para cada personaje pora dotar a los resultados de una mayor fiabilidad. Abajo se muestran los resultados de cada usuario, recogidos en una tabla de Excel:
 
-![Cuestionario SUS](4_Cuestionario_SUS.png)
+![Cuestionario SUS](P4/4_Cuestionario_SUS.png)
 Hemos realizado el Cuestionario SUS para valorar la satisfacción de cada usuario con el diseño.
 Las conclusiones que podemos sacar a partir de este cuestionario para cada caso son:
 
