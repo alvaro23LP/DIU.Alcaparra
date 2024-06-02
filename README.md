@@ -175,89 +175,74 @@ En resumen, aunque hemos tenido dificultades, el uso de Figma y las guías de Ma
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
 
-Exportación a HTML/Flutter
------
-
 ![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
-
->>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
-
-Diseño del experimento 
-----
-
->> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
->> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
-
-
-![experimento](img/experimentoET.png)  
->> cambiar img por tu diseño de experimento  
-
->> Recordar que gazerecorder es una versión de pruebas: usar sólo con 3 usuarios para generar mapa de calor (recordar que crédito > 0 para que funcione) 
-
-Resultados y valoración 
------
-
-
-
->> Cambiar por tus resultados
-![Resultado](img/resultadoET.png)  
-
+Para analizar el buen diseño de la interfaz y conocer que secciones captan en mayor medida la atención, vamos a utilizar técnicas de benchmarking para evaluar el diseño de estas aplicaciones, en concreto vamos a usar Gaze Recorder, para obtener mapas de calor y ver los puntos mas criticos de los diseños. Hemos realizado esto para 2 casos, con dos objetivos diferentes, tanto para el caso A como el B, realizando una comparación directa de los resultados. 
+Las dos pruebas han sido:
+- Explorar el homepage
+- Acceder a la información y/o descripción de un curso(B) o taller(A)
+En este archivo se pueden consultar los resultados recogidos: [Eye Tracking](P4/3_Eye_Tracking.pdf)
 
 
 ## Paso 4. Evaluación 
 
-
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
-----
+El proyecto que nos ha tocado co-evaluar es el del equipo **DIU3_13 TecladoyRatón** cuyo enlace a Github es el siguiente: [Grupo_Caso_B](https://github.com/bete2043/DIU)
 
+Su proyecto es llamado *Foto Élite* y consiste en una aplicación de un club de fotografía en el que se imparten cursos y conocimientos sobre el mundo de la fotografía y permite a las personas poder conocer más sobre este campo. Su diseño HI-FI o mockup de su aplicación se puede hallar en el siguiente enlace a Figma: [Mockup_Caso_B](https://www.figma.com/design/dLHjxgrZM3L5WOI7Do9CoY/Guidelines-%26-Layout?node-id=77%3A830&t=JlTJYw2a5UhbiYQ6-1)
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+Vamos a analizar la usabilidad del prototipo empleando una combinación de dos técnicas: la prueba A/B y el cuestionario SUS (System Usability Scale). Esto permitirá comparar el rendimiento de dos alternativas de diseño.
 
+A continuación procedemos con su co-evaluación mediante la aplicación de distintos test y simulación de tareas en la aplicación para comprobar el índice de satisfacción general de los usuarios con la app.
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
-----
+Para evaluar la usabilidad hemos escogido 4 personas ficticias con características y personalidades distintas:
+* Una mujer de 34 años con experiencia intermedia en internet.
+* Un chico de 15 años con experiencia intermedia.
+* Un hombre de 46 años con baja experiencia.
+* Una mujer de 27 años muy experimentada en las tecnologías.
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
-
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+Las 2 primeras personas han evaluado el caso A, mientras las otras dos el caso B. Para proceder con la evaluación hemos pedido ayuda a conocidos con experiencia similiar a los usuarios ficticios para que puedieran aportarnos su feedback y ayudarnos a completar el cuestionario SUS de manera más realista para evitar sesgar los resultados. A continuación, recogemos en una tabla los usuarios ficticios escogidos para esta tarea:
+![Usuarios Ficticios](P4/2_Usuarios.png)
 
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
 ----
+Para cada uno de los personajes ficticios que hemos creado, hemos completado el cuestionario SUS (*System UsabilitY Scale*). Este test lo hemos realizado con la ayuda de conocidos que han desempeñado el papel de los usuarios. Cada uno de ellos tenía una experiencia similar a la descrita para cada personaje pora dotar a los resultados de una mayor fiabilidad. Abajo se muestran los resultados de cada usuario, recogidos en una tabla de Excel:
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+![Cuestionario SUS](4_Cuestionario_SUS.png)
+Hemos realizado el Cuestionario SUS para valorar la satisfacción de cada usuario con el diseño.
+Las conclusiones que podemos sacar a partir de este cuestionario para cada caso son:
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+* **Cuestionario Caso A (Grupo Alcaparra)**
+La media de puntuación de los dos usuarios (#01 y #02) es de 78,75. Esto indica una buena usabilidad, situándose por encima del promedio. Esto sugiere que la mayoría de los usuarios encuentran la aplicación fácil de usar y tienen una experiencia positiva. La puntuación está cerca del rango de excelencia, aunque aún hay margen para mejoras. Los usuarios probablemente recomienden la aplicación, pero sería beneficioso abordar pequeñas áreas de frustración para perfeccionar la experiencia. 
+
+* **Cuestionario Caso B (Grupo Teclado y Ratón)**
+Para el caso B los resultados han sido 62.5 y 72.5, lo cual es una calificación mediocre, de grado C, indicando que la aplicación es simplemente aceptable. La puntuación se encuentra en el rango medio, sugiriendo que la mayoría de los usuarios pueden utilizarla sin muchos problemas, aunque existen áreas que requieren mejoras. Algunas tareas son tediosas o imposibles de realizar debido a la falta de implementación, como un área de descripción detallada de los cursos de fotografía disponibles.
+
+Con esta puntuación, los usuarios probablemente continuarán usando la aplicación, pero tienen ciertas quejas que los impiden estar completamente satisfechos. Es poco probable que recomienden la aplicación a otros debido a sus defectos. Se recomienda atender las sugerencias de los usuarios y realizar encuestas sobre la funcionalidad de la aplicación para seguir mejorándola.
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
+En este informe detallamos el análisis completo de la usabilidad de la aplicación B, *Foto Élite*. El archivo se puede consultar aquí: [Usability Report](P4/5_Usability_Report_B.pdf)
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+Resumidamente, la aplicación presenta una serie de problemas que perjudican la experiencia de usuario como son los siguientes:
 
+- **Apartado de configuración inexistente:** La aplicación no dispone de una sección de ajustes en la que podamos establecer la configuración básica de la aplicación. Este apartado sería útil dado que podría servir para cmabiar parámetros como el idioma de la app, ajustes de accesibilidad (como por ejemplo aumentar el tamaño de fuente) y por último se podrían gestionar las notificaciones para poder recordar al usuario de próximos cursos reservados.
 
+- **Falta de sección de carrito de compra:** Aunque el carrito de la compra está implementado, solo se puede acceder al pulsar el botón de comprar en la sección de "Galeria". Sería de utilidad crear un botón específico para acceder a esta sección más fácilmente para mejorar la experiencia.
+
+- **Formulario de reserva de un curso:** Los campos son algo confusos y pueden ser irrelevantes a la hora de realizar una reserva, por ejemplo, la dirección; podrían omitirse o autocompletarse de forma transparente al usuario, adquiriendo esta información del perfil del usuario y no cada vez que se realiza una reserva.
+
+- **Accesibilidad del calendario:** No existe un acceso a un apartado de calendario en el que se visualicen de forma rápida y fácil los días en los que se realizarán los cursos. Para conocer los días en que se imparte cada curso hay que iniciar el proceso de reserva de cada curso, lo que es bastante tedioso. Como solución, podría ponerse un apartado en la barra de navegación o un subapartado dentro de la sección de cursos.
+
+- **Información de un curso muy nula:** No existe un apartado en el que se detalle la información relativa a un curso en concreto. Esto es vital para los usuarios, pues muchos no realizarán reservas si no saben de qué trata el curso, qué actividades en concreto van a realizar, quién lo imparte, hora, lugar, precio, etc. Proponemos que antes del proceso de reserva, se muestra una pantalla de descripción del curso, con toda la información necesaria y de interés.
 
 >>> Valoración personal 
 
 
-
-
-
 5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
-----
-
-
->> recupera el usability report de tu práctica (que es el caso B de los asignados a otros grupos) 
->> con los resultados del A/B testing, de eye tracking y del usability report:
->>  comentad en 2-3 parrafos cual es la conclusion acerca de la realización de la práctica y su evaluación con esas técnicas y que habéis aprendido
+En conclusión, en la prueba del A/B testing, nuestro Caso A (*Sazón y Tradición*), con una puntuación SUS de 78.75, demuestra buena usabilidad, mientras que el Caso B (*Foto Élite*), con 67.5, indica una experiencia aceptable pero mejorable. Los problemas principales de B incluyen un formulario de reserva confuso, dificultad para acceder al calendario y falta de información detallada sobre los cursos. Recomendamos simplificar el formulario, añadir un acceso directo al calendario y proporcionar descripciones completas de los cursos antes de la reserva. Estas mejoras, basadas en el feedback de usuarios ficticios y pruebas de Eye Tracking, facilitarán la navegación y mejorarán la satisfacción del usuario. Implementar pruebas de usabilidad continuas y encuestas ayudará a mantener y mejorar la calidad de la aplicación.
 
 
 
@@ -265,12 +250,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 
 ## Conclusión final / Valoración de las prácticas
-
-
 >>> (90-150 palabras) Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
-
-
-
 
 
 
