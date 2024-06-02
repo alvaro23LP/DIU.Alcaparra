@@ -236,23 +236,17 @@ Resumidamente, la aplicación presenta una serie de problemas que perjudican la 
 
 - **Accesibilidad del calendario:** No existe un acceso a un apartado de calendario en el que se visualicen de forma rápida y fácil los días en los que se realizarán los cursos. Para conocer los días en que se imparte cada curso hay que iniciar el proceso de reserva de cada curso, lo que es bastante tedioso. Como solución, podría ponerse un apartado en la barra de navegación o un subapartado dentro de la sección de cursos.
 
-- **Información de un curso muy nula:** No existe un apartado en el que se detalle la información relativa a un curso en concreto. Esto es vital para los usuarios, pues muchos no realizarán reservas si no saben de qué trata el curso, qué actividades en concreto van a realizar, quién lo imparte, hora, lugar, precio, etc. Proponemos que antes del proceso de reserva, se muestra una pantalla de descripción del curso, con toda la información necesaria y de interés.
+- **Información de un curso nula:** No existe un apartado en el que se detalle la información relativa a un curso en concreto. Esto es vital para los usuarios, pues muchos no realizarán reservas si no saben de qué trata el curso, qué actividades en concreto van a realizar, quién lo imparte, hora, lugar, precio, etc. Proponemos que antes del proceso de reserva, se muestra una pantalla de descripción del curso, con toda la información necesaria y de interés.
 
 >>> Valoración personal 
-
+A esar de los errores presentados anteriormente, pensamos que Foto Élite, es una gran aplicación que cumple con practicamente todas las cosas que se esperan de una aplicación de cursos de fotografía, que tiene mucho potencial y margen de mejora. Creemos firmemente que, solventando los problemas vistos, Foto Élite puede ser una aplicación destacable en su sector. Destacar tambien su diseño claro, sencillo y minimalista;  y el atractivo logo, muy acorde con la temática.
 
 5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
-En conclusión, en la prueba del A/B testing, nuestro Caso A (*Sazón y Tradición*), con una puntuación SUS de 78.75, demuestra buena usabilidad, mientras que el Caso B (*Foto Élite*), con 67.5, indica una experiencia aceptable pero mejorable. Los problemas principales de B incluyen un formulario de reserva confuso, dificultad para acceder al calendario y falta de información detallada sobre los cursos. Recomendamos simplificar el formulario, añadir un acceso directo al calendario y proporcionar descripciones completas de los cursos antes de la reserva. Estas mejoras, basadas en el feedback de usuarios ficticios y pruebas de Eye Tracking, facilitarán la navegación y mejorarán la satisfacción del usuario. Implementar pruebas de usabilidad continuas y encuestas ayudará a mantener y mejorar la calidad de la aplicación.
-
-
-
-
+En conclusión, en la prueba del A/B testing, nuestro Caso A (*Sazón y Tradición*), con una puntuación SUS de 78.75, demuestra buena usabilidad, mientras que el Caso B (*Foto Élite*), con 67.5, indica una experiencia aceptable pero mejorable. Los problemas principales del caso B incluyen un formulario de reserva confuso, dificultad para acceder al calendario y falta de información detallada sobre los cursos. Recomendamos simplificar el formulario, añadir un acceso directo al calendario y proporcionar descripciones completas de los cursos antes de la reserva. Estas mejoras, basadas en el feedback de usuarios ficticios y pruebas de Eye Tracking, facilitarán la navegación y mejorarán la satisfacción del usuario. Implementar pruebas de usabilidad continuas y encuestas ayudará a mantener y mejorar la calidad de la aplicación. 
 
 
 ## Conclusión final / Valoración de las prácticas
->>> (90-150 palabras) Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
-
-
+De forma general y resummida, pensamos que las prácticas desarrolladas en la asignatura nos han hecho ver la experiencia de usuario, la accesibilidad y el diseño de las interfaces en general, de otra manera; cosa que vemos ahora como un punto mucho mas relevante del que creiamos, habiendo aprendido a mejorar nuestros diseños, hacerlos mas accesibles a todos los usuarios. Pensamos que gracias a estas prácticas hemos aprendido conceptos, y técnicas que nos serán útiles en nuestras futuras páginas y aplicaciones.
 
 
 
