@@ -62,6 +62,6 @@ Resumidamente, la aplicación presenta una serie de problemas que perjudican la 
 
 
 
-### 7. Conclusiones  
-En esta práctica hemos analizado las desventajas que nuestras personas y nosotros mismos habíamos encontrado en las páginas web analizadas en la práctica anterior. Esto nos ha permitido obtener diversas nociones sobre los diseños que serían apropiados para nuestra página. Además hemos realizado nuestra propuesta de valor que nos permitirá aportar mayor valor a nuestra comunidad de usuarios que se verá incrementada efectivamente. Finalizamos la práctica obteniendo nuestros diseños adaptativos a distintos formatos de pantalla, hecho que es de gran utilidad teniendo en cuenta que en la actualidad gran parte de la comunidad accede a las plataformas web desde el móvil.
+### 7. Conclusiones
+En conclusión, en la prueba del A/B testing, nuestro Caso A (*Sazón y Tradición*), con una puntuación SUS de 78.75, demuestra buena usabilidad, mientras que el Caso B (*Foto Élite*), con 67.5, indica una experiencia aceptable pero mejorable. Los problemas principales de B incluyen un formulario de reserva confuso, dificultad para acceder al calendario y falta de información detallada sobre los cursos. Recomendamos simplificar el formulario, añadir un acceso directo al calendario y proporcionar descripciones completas de los cursos antes de la reserva. Estas mejoras, basadas en el feedback de usuarios ficticios y pruebas de Eye Tracking, facilitarán la navegación y mejorarán la satisfacción del usuario. Implementar pruebas de usabilidad continuas y encuestas ayudará a mantener y mejorar la calidad de la aplicación.
 
