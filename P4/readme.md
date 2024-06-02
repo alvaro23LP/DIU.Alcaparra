@@ -54,6 +54,10 @@ En este informe detallamos el análisis completo de la usabilidad de la aplicaci
 
 Resumidamente, la aplicación presenta una serie de problemas que perjudican la experiencia de usuario como son los siguientes:
 
+- **Apartado de configuración inexistente:** La aplicación no dispone de una sección de ajustes en la que podamos establecer la configuración básica de la aplicación. Este apartado sería útil dado que podría servir para cmabiar parámetros como el idioma de la app, ajustes de accesibilidad (como por ejemplo aumentar el tamaño de fuente) y por último se podrían gestionar las notificaciones para poder recordar al usuario de próximos cursos reservados.
+
+- **Falta de sección de carrito de compra:** Aunque el carrito de la compra está implementado, solo se puede acceder al pulsar el botón de comprar en la sección de "Galeria". Sería de utilidad crear un botón específico para acceder a esta sección más fácilmente para mejorar la experiencia.
+
 - **Formulario de reserva de un curso:** Los campos son algo confusos y pueden ser irrelevantes a la hora de realizar una reserva, por ejemplo, la dirección; podrían omitirse o autocompletarse de forma transparente al usuario, adquiriendo esta información del perfil del usuario y no cada vez que se realiza una reserva.
 
 - **Accesibilidad del calendario:** No existe un acceso a un apartado de calendario en el que se visualicen de forma rápida y fácil los días en los que se realizarán los cursos. Para conocer los días en que se imparte cada curso hay que iniciar el proceso de reserva de cada curso, lo que es bastante tedioso. Como solución, podría ponerse un apartado en la barra de navegación o un subapartado dentro de la sección de cursos.
